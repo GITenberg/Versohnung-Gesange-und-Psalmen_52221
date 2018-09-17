@@ -1,5 +1,8 @@
 _repo: Versohnung-Gesange-und-Psalmen_52221
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52221-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Schürer, Oskar
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46730'
     url: http://www.gutenberg.org/2009/agents/46730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52221#Versohnung-Gesange-und-Psalmen
 gutenberg_issued: '2016-06-02'
 gutenberg_type: Text
 identifiers:
