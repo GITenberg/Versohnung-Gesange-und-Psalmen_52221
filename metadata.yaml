@@ -1,0 +1,29 @@
+_repo: Versohnung-Gesange-und-Psalmen_52221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schürer, Oskar
+    alias: Schurer, Oskar
+    birthdate: 1892
+    deathdate: 1949
+    gutenberg_agent_id: '46730'
+    url: http://www.gutenberg.org/2009/agents/46730
+description: ''
+gutenberg_issued: '2016-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52221'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- 20th century'
+- GITenberg
+tableOfContents: Armes Wort -- Winterritt mit weißen Hunden -- Nacht im Februar 1917
+  -- Märzpsalm -- Seht, wie Tod bereite Schale hebt -- Einer doch wandelt -- Ein Menschentag
+  I-IV -- Flucht und Zuflucht I-IV -- Nacht -- Frühling (Eine Trilogie) -- Orphischer
+  Psalm -- Gotischer Psalm.
+title: Versöhnung, Gesänge und Psalmen
+url: http://www.gutenberg.org/ebooks/52221
